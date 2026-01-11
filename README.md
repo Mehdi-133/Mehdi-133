@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Mehdi KARBITOU
 
-🚀 **Aspiring Full-Stack Developer | Web & Backend | Problem Solver**  
+🚀 **Aspiring Full-Stack Developer r**  
 🎓 YouCode-UM6P School  
-📍 Morocco? Casablanca
+📍 Morocco,  Casablanca
 
 
 ---
