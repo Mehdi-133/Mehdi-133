@@ -38,12 +38,6 @@ Currently studying at **YouCode School**, I work in an **active pedagogy environ
 - Agile & project planning  
 - Clean code & documentation  
 
----
-
-## 📊 GitHub Stats
-
-![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehdi-133&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-133&layout=compact)
 
 ---
 
