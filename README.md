@@ -1,91 +1,114 @@
 # 👋 Hi, I’m Mehdi KARBITOU
 
-🚀 **Aspiring Full-Stack Developer | Backend-Focused | Problem Solver**  
-🎓 Management & Human Resources Student | ALX Software Engineering Learner  
-📍 Casablanca, Morocco
+🚀 **Aspiring Full-Stack Developer | Web & Backend | Problem Solver**  
+🎓 YouCode-UM6P School  
+📍 Morocco? Casablanca
+
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a motivated **Full-Stack Developer** with a strong focus on **backend development**, passionate about building scalable, efficient, and meaningful digital solutions.
+I’m a **motivated Full-Stack Developer in training** with a strong interest in building **useful, impact-driven web applications**.
 
-With a background in **management and human resources**, I bring a unique perspective to tech — combining **technical skills**, **user-centered thinking**, and **business understanding**.  
-I enjoy working on real-world problems, clean architecture, and continuously improving my craft.
+Currently studying at **YouCode School**, I work in an **active pedagogy environment** focused on:
+- Project-based learning  
+- Agile mindset & collaboration  
+- Real-world problem solving  
 
-Currently:
-- 🔭 Building backend & full-stack projects  
-- 🌱 Learning **Django, REST APIs, Databases, and System Design**  
-- 💡 Interested in **impact-driven products**, education, and social good  
-
----
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- JavaScript
-- SQL
-- HTML5 & CSS3
+### 💻 Languages
+![HTML](https://img.shields.io/badge/HTML-000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=php)
+![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=mysql)
 
-### Backend
-- Django
-- Django REST Framework
-- MySQL
-- SQLite
+### ⚙️ Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-000?style=flat&logo=laravel)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat&logo=bootstrap)
 
-### Frontend
-- Tailwind CSS
-- Vanilla JavaScript
-- Responsive UI Design
-
-### Tools & Practices
-- Git & GitHub
-- Linux / CLI
-- REST APIs
-- Object-Oriented Programming (OOP)
-- MVC / MVT Architecture
-- Agile & Clean Code Principles
+### 🧰 Tools & Practices
+- Git & GitHub  
+- Jira & Trello  
+- Figma & Draw.io  
+- Agile & project planning  
+- Clean code & documentation  
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-🚀 **actTogether**  
-A platform connecting students with volunteering opportunities and rewarding engagement through partner-sponsored points.  
-*Tech: HTML, Tailwind CSS, JavaScript (MVP)*
+### 🤝 **actTogether** *(Hackathon Project)*  
+**Tech:** PHP, HTML, Tailwind CSS, JavaScript  
+- Platform connecting students with volunteering initiatives  
+- UI design + backend logic  
+- Built under time pressure during a hackathon  
 
-📚 **Library Management System (Django)**  
-A backend-focused project implementing models, authentication, and REST APIs.  
-*Tech: Django, DRF, SQLite*
+### 🏥 **MediCare**  
+**Tech:** HTML, JavaScript, Tailwind CSS, Figma  
+- Medical management web interface  
+- UI/UX prototyping with Figma  
+- Responsive frontend implementation  
 
-🏦 **Bank Account & OOP Projects**  
-Hands-on projects demonstrating core Object-Oriented Programming principles.  
-*Tech: Python*
+### 💰 **MoneyMind – Personal Finance App**  
+**Tech:** PHP, JavaScript, Tailwind CSS  
+- Personal wallet & transaction management  
+- Dynamic data display and backend logic  
 
-📦 **ALX Backend Foundations**  
-A collection of backend exercises covering control flow, functions, OOP, databases, and APIs.
+### 🏦 **Banking Application**  
+**Tech:** PHP  
+- Simulated banking system  
+- Server-side logic & business rules  
 
-👉 *More projects available in my repositories.*
+### 🧠 **QuizAppStudent**  
+**Tech:** PHP, AJAX, HTML, Tailwind CSS  
+- Interactive quiz application  
+- Dynamic question loading  
+
+👉 *More projects available in my pinned repositories.*
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Experience
 
-![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+### 🌍 **ALX Africa — Gap Problem Statement Project** *(Remote)*  
+**2024**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+- Worked on a **real educational problem**  
+- Designed and presented a **functional prototype**  
+- Collaborated with an **international team**  
+- Strengthened communication, leadership, and presentation skills  
 
-> 🔁 Replace `YOUR_USERNAME` with your actual GitHub username.
+---
+
+## 🌍 Languages
+---
+
+## 📜 Certifications
+
+- **Soft Skills Certification — ALX Africa**  
+  *Professional development skills for the digital age*  
+  📅 August 13, 2024  
+
+---
+
+## 📊 GitHub Stats
+
+![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehdi-133&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-133&layout=compact)
 
 ---
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: *add your LinkedIn link*
-- 📧 Email: mehdikarbitou@gmail.com
-- 🌐 Portfolio: *coming soon*
+- 💼 LinkedIn: https://www.linkedin.com/in/mehdi-karbitou  
+- 📧 Email: mehdikarbitou@gmail.com  
+- 🧑‍💻 GitHub: https://github.com/Mehdi-133  
 
 ---
 
-⭐ *I’m always open to collaboration, learning opportunities, and meaningful projects.*
+⭐ *Always open to collaboration, learning opportunities, and meaningful projects.*
