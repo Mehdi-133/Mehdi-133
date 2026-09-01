@@ -150,24 +150,6 @@ I'm particularly interested in:
 
 ---
 
-## `05` — PROJECT LAB
-
-<div align="center">
-
-### `// SYSTEMS I'VE BUILT`
-
-<img src="https://img.shields.io/badge/PROJECTS-06-00C6FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-7C3AED?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING-00C853?style=for-the-badge&labelColor=0D1117"/>
-
-<br/><br/>
-
-`WEB APPS` · `APIs` · `LARAVEL` · `PHP` · `BLADE` · `JAVASCRIPT`
-
-</div>
-
----
-
 <table>
 <tr>
 
