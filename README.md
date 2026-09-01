@@ -330,61 +330,163 @@ I'm working toward becoming a developer who can take a product from:
 
 ---
 
-
-
 ## `14` — CONNECT
 
 <div align="center">
 
-### Let's build something useful.
-
-I'm interested in:
-
-`Full-Stack Development` · `SaaS` · `APIs` · `Automation` · `DevOps` · `Real-World Products`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:00C6FF&height=4&section=header" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/Mehdi-133">GitHub</a>
-  •   <a href="https://www.linkedin.com/in/mehdi-karbitou">LinkedIn</a>
-  •   <a href="https://core-v2-portfolio.vercel.app/">Portfolio</a>
-  •   <a href="mailto:mehdikarbitou@gmail.com">Email</a>
+# `LET'S BUILD.`
+
+### <code>Ideas → Code → Products</code>
+
+<p>
+I’m always interested in building things that are
+<strong>useful, scalable, and a little bit different.</strong>
+</p>
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🟢
+
+**BUILD**
+
+Full-Stack
+SaaS
+APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔵
+
+**EXPLORE**
+
+Automation
+AI
+Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+### 🟣
+
+**SHIP**
+
+Docker
+CI/CD
+Testing
+
+</td>
+
+<td align="center" width="25%">
+
+### 🟡
+
+**IMPROVE**
+
+Performance
+UX
+Code Quality
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+### `// FIND ME ONLINE`
+
+<a href="https://github.com/Mehdi-133">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mehdi-karbitou">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://core-v2-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:mehdikarbitou@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Mehdi-133&style=flat-square&color=00C6FF&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-**"Build it. Test it. Ship it. Improve it."**
-
-</div>
 
 ---
 
+### `STATUS`
+
+<img src="https://img.shields.io/badge/●%20AVAILABLE%20TO%20BUILD-00C853?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
+
+```text
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│   $ connect --with mehdi                            │
+│                                                      │
+│   ✓ GitHub                                           │
+│   ✓ LinkedIn                                         │
+│   ✓ Portfolio                                        │
+│   ✓ Email                                            │
+│                                                      │
+│   CONNECTION STATUS:  ████████████████  ONLINE       │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+```
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mehdi-133&style=for-the-badge&color=00C6FF&label=PROFILE+VISITORS" />
+
+<br/><br/>
+
+### `ONE LAST THING`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Build+it.;Test+it.;Ship+it.;Improve+it.;Repeat." />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=100&section=footer"/>
+
+</div>
+
 <!--
 =========================================================
-DYNAMIC SERVICES USED
+CONNECT / FOOTER
 
-1. github-readme-stats
-   GitHub statistics + top languages
+VISUAL CONCEPT:
+🟢 Build
+🔵 Explore
+🟣 Ship
+🟡 Improve
 
-2. streak-stats
-   Contribution streak information
+The section intentionally uses multiple accent colors while
+keeping the rest of the profile dark and professional.
 
-3. github-readme-activity-graph
-   Contribution/activity visualization
+Dynamic elements:
+- Typing SVG
+- Profile visitor counter
+- Capsule animated footer
+- Linked social badges
 
-4. shields.io
-   Technology and social badges
-
-5. capsule-render
-   Decorative animated header
-
-6. komarev
-   Profile-view counter
-
-All statistics are rendered dynamically.
-No GitHub metrics are hard-coded except the repository
-snapshot, which should be periodically updated.
+GitHub-compatible:
+- No JavaScript
+- No custom CSS
+- No external scripts
+- Only Markdown/HTML/SVG/image services
 =========================================================
 -->
