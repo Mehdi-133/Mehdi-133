@@ -302,17 +302,6 @@ A student-focused quiz application demonstrating backend development and applica
 </table>
 
 
-### What I'm practicing
-
-* Unit testing
-* Feature testing
-* PHPUnit
-* Automated CI tests
-* Docker build validation
-* Code validation
-* CI pipelines
-* Reliable development workflows
-
 ## `10` — CURRENT FOCUS
 
 ```text
