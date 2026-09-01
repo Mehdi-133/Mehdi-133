@@ -1,551 +1,619 @@
+<!-- =========================================================
+     MEHDI KARBITOU — GitHub Profile README
+     Repository: github.com/Mehdi-133/Mehdi-133
+     ========================================================= -->
+
 <div align="center">
 
 # `MEHDI KARBITOU`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  mehdi@dev ~/profile $ whoami                                │
-│                                                              │
-│  > Full-Stack Developer in Training                          │
-│  > YouCode — UM6P                                           │
-│  > Morocco 🇲🇦                                               │
-│                                                              │
-│  $ status                                                    │
-│  ● BUILDING   ● LEARNING   ● SHIPPING                        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+### Full-Stack Developer in Training · Builder · Problem Solver
 
-### `BUILD • CREATE • AUTOMATE`
-
-[ GitHub ] · [ LinkedIn ] · [ Portfolio ] · [ Email ]
-
-</div>
-
----
-
-<div align="center">
-
-### `01 / DEVELOPER SNAPSHOT`
-
-<table>
-<tr>
-<td>
-
-**FOCUS**
-
-`FULL-STACK`
-
-</td>
-<td>
-
-**BACKEND**
-
-`LARAVEL`
-
-</td>
-<td>
-
-**FRONTEND**
-
-`REACT`
-
-</td>
-<td>
-
-**DATABASE**
-
-`SQL`
-
-</td>
-<td>
-
-**DEVOPS**
-
-`DOCKER`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `02 / WHAT I BUILD`
-
-<div align="center">
-
-```text
-                 ┌─────────────────────────┐
-                 │       REAL PROBLEM       │
-                 └────────────┬────────────┘
-                              │
-                              ▼
-              ┌───────────────────────────────┐
-              │         DIGITAL PRODUCT       │
-              └──────────────┬────────────────┘
-                             / \
-                            /   \
-                           ▼     ▼
-                    ┌────────┐ ┌──────────┐
-                    │  WEB   │ │   API    │
-                    │  APP   │ │ SERVICES │
-                    └───┬────┘ └────┬─────┘
-                        │            │
-                        └─────┬──────┘
-                              ▼
-                     ┌─────────────────┐
-                     │   DATA + AUTH   │
-                     └────────┬────────┘
-                              │
-                              ▼
-                     ┌─────────────────┐
-                     │ TEST + AUTOMATE │
-                     └────────┬────────┘
-                              │
-                              ▼
-                     ┌─────────────────┐
-                     │    SHIP IT 🚀   │
-                     └─────────────────┘
-```
-
-</div>
-
-### The kind of things I like building
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### ⚡
-
-**Web Apps**
-
-Modern interfaces and full-stack applications.
-
-</td>
-
-<td width="25%" align="center">
-
-### 🔌
-
-**APIs**
-
-Backend services, authentication and integrations.
-
-</td>
-
-<td width="25%" align="center">
-
-### 📊
-
-**Dashboards**
-
-Admin panels, analytics and business tools.
-
-</td>
-
-<td width="25%" align="center">
-
-### 🚀
-
-**SaaS**
-
-Products designed around real-world problems.
-
-</td>
-</tr>
-</table>
-
----
-
-## `03 / TECH MATRIX`
-
-```text
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  FRONTEND       HTML  CSS  JS  React  Tailwind  Bootstrap    │
-│                 ████████████████████████████████████         │
-│                                                               │
-│  BACKEND        PHP  Laravel  Blade  REST  Sanctum           │
-│                 █████████████████████████████████             │
-│                                                               │
-│  DATABASE       MySQL  MariaDB  PostgreSQL  Redis             │
-│                 ████████████████████████████                  │
-│                                                               │
-│  DEVOPS         Docker  Compose  GitHub Actions  CI/CD        │
-│                 ██████████████████████████████████            │
-│                                                               │
-│  TESTING        PHPUnit  Feature Tests  Unit Tests            │
-│                 ████████████████████████                      │
-│                                                               │
-│  TOOLS          Git  GitHub  Postman  Figma  VS Code          │
-│                 ███████████████████████████████████           │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `04 / STACK`
-
-<div align="center">
-
-### `FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,vite" />
-
-### `BACKEND`
-
-<img src="https://skillicons.dev/icons?i=php,laravel" />
-
-### `DATABASE`
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
-
-### `DEVOPS`
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github" />
-
-### `TOOLS & SERVICES`
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,firebase" />
-
-</div>
-
----
-
-## `05 / PROJECT TERMINAL`
-
-```text
-mehdi@dev:~/projects$ ls -la
-
-drwxr-xr-x  You-Connect
-drwxr-xr-x  Brigade-API
-drwxr-xr-x  Fair_Share
-drwxr-xr-x  TasksBoard
-drwxr-xr-x  job_dating
-drwxr-xr-x  QuizAppStudent
-
-mehdi@dev:~/projects$ ./explore.sh
-```
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### `01`
-
-## You-Connect
-
-`JavaScript`
-
-> Web application focused on community and connectivity.
-
-**STACK**
-
-`JavaScript`
-
-[ `OPEN REPO →` ](https://github.com/Mehdi-133/You-Connect)
-
-</td>
-
-<td width="33%" valign="top">
-
-### `02`
-
-## Brigade API
-
-`PHP`
-
-> Backend/API project exploring server-side development.
-
-**STACK**
-
-`PHP` · `API`
-
-[ `OPEN REPO →` ](https://github.com/Mehdi-133/Brigade-API)
-
-</td>
-
-<td width="33%" valign="top">
-
-### `03`
-
-## Fair_Share
-
-`Blade`
-
-> Web application built around resource sharing.
-
-**STACK**
-
-`Blade`
-
-[ `OPEN REPO →` ](https://github.com/Mehdi-133/Fair_Share)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### `04`
-
-## TasksBoard
-
-`Blade`
-
-> Task management application with a web interface.
-
-**STACK**
-
-`Blade`
-
-[ `OPEN REPO →` ](https://github.com/Mehdi-133/TasksBoard)
-
-</td>
-
-<td width="33%" valign="top">
-
-### `05`
-
-## job_dating
-
-`PHP`
-
-> Recruitment-oriented web application.
-
-**STACK**
-
-`PHP`
-
-[ `OPEN REPO →` ](https://github.com/Mehdi-133/job_dating)
-
-</td>
-
-<td width="33%" valign="top">
-
-### `06`
-
-## QuizAppStudent
-
-`PHP`
-
-> Student quiz platform with scoring and categories.
-
-**STACK**
-
-`PHP`
-
-[ `OPEN REPO →` ](https://github.com/Mehdi-133/QuizAppStudent)
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `06 / GITHUB ANALYTICS`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mehdi-133&show_icons=true&hide_border=true&theme=transparent&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-133&layout=compact&hide_border=true&theme=transparent&title_color=00C6FF&text_color=FFFFFF" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Mehdi-133&hide_border=true&background=00000000&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=888888" />
-
-</div>
-
----
-
-## `07 / CONTRIBUTION GRID`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehdi-133&bg_color=00000000&color=FFFFFF&line=00C6FF&point=00C6FF&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-## `08 / CURRENT MODE`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  CURRENTLY                                                   │
-│                                                              │
-│  [████████████████████]  Full-Stack Development              │
-│  [██████████████████░░]  Laravel + APIs                     │
-│  [█████████████████░░░]  React                              │
-│  [████████████████░░░░]  Docker                             │
-│  [████████████████░░░░]  CI / CD                            │
-│  [███████████████░░░░░]  Testing                            │
-│  [██████████████░░░░░░]  Deployment                         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-### `LEVELING UP`
-
-`Docker` · `CI/CD` · `PHPUnit` · `REST APIs` · `Sanctum` · `React` · `PostgreSQL` · `Redis`
-
----
-
-## `09 / ENGINEERING MODE`
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-
-### 🧪
-
-**TEST**
-
-PHPUnit
-Feature Tests
-Unit Tests
-
-</td>
-
-<td align="center">
-
-### 🐳
-
-**CONTAINERIZE**
-
-Docker
-Docker Compose
-
-</td>
-
-<td align="center">
-
-### ⚙️
-
-**AUTOMATE**
-
-GitHub Actions
-CI/CD
-
-</td>
-
-<td align="center">
-
-### 🚀
-
-**SHIP**
-
-Deployment
-Production
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## `10 / GITHUB ACTIVITY`
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────┐
-│              LIVE DEVELOPMENT SIGNAL             │
-├──────────────────────────────────────────────────┤
-│                                                  │
-│     REPOSITORIES        27                       │
-│     FOLLOWERS            4                       │
-│     FOLLOWING            7                       │
-│     PUBLIC STARS         0                       │
-│                                                  │
-│     STATUS               ● ACTIVE                │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## `11 / DEVELOPMENT PHILOSOPHY`
-
-<div align="center">
-
-```text
-BUILD
-  ↓
-LEARN
-  ↓
-TEST
-  ↓
-IMPROVE
-  ↓
-SHIP
-  ↓
-REPEAT
-```
-
-**I don't want to only learn how to code.**
-
-**I want to learn how software is actually built.**
-
-</div>
-
----
-
-## `12 / CONNECT`
-
-<div align="center">
-
-### `OPEN TERMINAL`
-
-```text
-mehdi@dev:~$ connect --with-me
-
-> GitHub
-> LinkedIn
-> Portfolio
-> Email
-
-[ AVAILABLE FOR LEARNING • COLLABORATION • BUILDING ]
-```
+**I build web applications — and I'm learning how to build them properly.**
 
 <br/>
 
 <a href="https://github.com/Mehdi-133">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Mehdi--133-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/mehdi-karbitou">
-<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Mehdi%20Karbitou-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://core-v2-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
 <a href="mailto:mehdikarbitou@gmail.com">
-<img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Contact-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-`© 2026 Mehdi Karbitou`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=header&text=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20DEPLOY&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 
 </div>
+
+---
+
+## `01` — SYSTEM OVERVIEW
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👨‍💻 Who am I?
+
+I'm **Mehdi Karbitou**, a Full-Stack Developer in training at **YouCode-UM6P**, based in Morocco.
+
+I enjoy turning ideas and real-world problems into useful digital products.
+
+My development journey started with the fundamentals and is progressively moving toward:
+
+* Full-stack architecture
+* REST APIs
+* Modern frontend applications
+* Authentication
+* Databases
+* Testing
+* Docker
+* CI/CD
+* Deployment
+* Production-oriented development
+
+> **My goal isn't just to make applications work.**
+>
+> **It's to understand how to build, test, ship and maintain them.**
+
+</td>
+
+<td width="45%" valign="top">
+
+### ⚡ Quick Status
+
+```text
+┌─────────────────────────────┐
+│  DEVELOPER STATUS           │
+├─────────────────────────────┤
+│  Focus       Full-Stack     │
+│  Environment YouCode-UM6P   │
+│  Location    Morocco 🇲🇦    │
+│  Mode        Building       │
+│  Learning    DevOps + APIs  │
+│  Philosophy  Build better   │
+└─────────────────────────────┘
+```
+
+**Currently leveling up**
+
+`Laravel` `React` `Docker` `CI/CD` `Testing`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `02` — WHAT I BUILD
+
+```text
+                 ┌───────────────────────┐
+                 │       IDEA / NEED      │
+                 └───────────┬───────────┘
+                             ↓
+                 ┌───────────────────────┐
+                 │      ARCHITECTURE     │
+                 └───────────┬───────────┘
+                             ↓
+        ┌────────────────────┼────────────────────┐
+        ↓                    ↓                    ↓
+   FRONTEND              BACKEND              DATABASE
+   React / Blade         Laravel / PHP        MySQL / PostgreSQL
+        │                    │                    │
+        └────────────────────┼────────────────────┘
+                             ↓
+                       REST API / AUTH
+                             ↓
+                    TESTING + VALIDATION
+                             ↓
+                    DOCKER / CI / CD
+                             ↓
+                         DEPLOYMENT
+```
+
+I'm particularly interested in:
+
+**Modern Web Applications · SaaS · Dashboards · APIs · Automation · Business Solutions · DevOps**
+
+---
+
+## `03` — TECH STACK
+
+### 🎨 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Tailwind-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Bootstrap-18181B?style=flat-square&logo=bootstrap&logoColor=7952B3" />
+<img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-18181B?style=flat-square&logo=vite&logoColor=646CFF" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/Laravel-18181B?style=flat-square&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/Blade-18181B?style=flat-square&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/REST%20API-18181B?style=flat-square&logo=fastapi&logoColor=00C7B7" />
+<img src="https://img.shields.io/badge/Sanctum-18181B?style=flat-square&logo=laravel&logoColor=FF2D20" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/MariaDB-18181B?style=flat-square&logo=mariadb&logoColor=003545" />
+<img src="https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Redis-18181B?style=flat-square&logo=redis&logoColor=DC382D" />
+</p>
+
+### 🚢 DevOps & Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Docker%20Compose-18181B?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-18181B?style=flat-square&logo=githubactions&logoColor=2088FF" />
+<img src="https://img.shields.io/badge/CI%2FCD-18181B?style=flat-square&logo=githubactions&logoColor=2088FF" />
+<img src="https://img.shields.io/badge/PHPUnit-18181B?style=flat-square&logo=php&logoColor=777BB4" />
+</p>
+
+### 🔌 APIs & Services
+
+<p>
+<img src="https://img.shields.io/badge/Axios-18181B?style=flat-square&logo=axios&logoColor=5A29E4" />
+<img src="https://img.shields.io/badge/Postman-18181B?style=flat-square&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/Firebase-18181B?style=flat-square&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/Mapbox-18181B?style=flat-square&logo=mapbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini%20API-18181B?style=flat-square&logo=google&logoColor=4285F4" />
+</p>
+
+### 🧰 Workflow
+
+`Git` · `GitHub` · `VS Code` · `Figma` · `Draw.io` · `Jira` · `Trello` · `Agile`
+
+---
+
+## `04` — GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mehdi-133&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-133&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00C6FF&text_color=FFFFFF" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Mehdi-133&hide_border=true&background=00000000&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=888888" />
+
+</div>
+
+> Statistics above are generated dynamically from GitHub rather than hard-coded.
+
+---
+
+## `05` — FEATURED PROJECTS
+
+> Projects below are selected from repositories currently present on my GitHub profile.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 You-Connect
+
+**JavaScript · Web Application**
+
+A project focused on building a modern web experience with JavaScript.
+
+**Stack**
+
+`JavaScript`
+
+**Status:** Active repository
+
+<a href="https://github.com/Mehdi-133/You-Connect">View repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 Brigade API
+
+**PHP · API Development**
+
+A backend/API-oriented project demonstrating my progression into server-side development.
+
+**Stack**
+
+`PHP` · `API`
+
+**Status:** Active repository
+
+<a href="https://github.com/Mehdi-133/Brigade-API">View repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Fair_Share
+
+**Blade · Laravel ecosystem**
+
+A project using Blade and representing my progression toward server-rendered full-stack applications.
+
+**Stack**
+
+`Blade`
+
+**Status:** Active repository
+
+<a href="https://github.com/Mehdi-133/Fair_Share">View repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📋 TasksBoard
+
+**Blade · Project Management**
+
+A task-management project focused on organizing work through a web interface.
+
+**Stack**
+
+`Blade`
+
+**Status:** Active repository
+
+<a href="https://github.com/Mehdi-133/TasksBoard">View repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Job Dating
+
+**PHP · Web Application**
+
+A job-dating / recruitment-oriented web project.
+
+**Stack**
+
+`PHP`
+
+**Status:** Active repository
+
+<a href="https://github.com/Mehdi-133/job_dating">View repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 QuizAppStudent
+
+**PHP · Quiz Platform**
+
+A student-focused quiz application demonstrating backend development and application logic.
+
+**Stack**
+
+`PHP`
+
+**Status:** Active repository
+
+<a href="https://github.com/Mehdi-133/QuizAppStudent">View repository →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `06` — DEVELOPER JOURNEY
+
+```text
+2025
+ │
+ ├── HTML / CSS
+ │       ↓
+ ├── JavaScript
+ │       ↓
+ ├── PHP + MySQL
+ │       ↓
+ ├── PHP OOP + PDO
+ │       ↓
+ ├── MVC + Laravel
+ │       ↓
+ ├── Blade + Tailwind
+ │       ↓
+ ├── REST APIs
+ │       ↓
+ ├── React ecosystem
+ │       ↓
+ ├── Authentication
+ │       ↓
+ ├── Docker
+ │       ↓
+ ├── GitHub Actions
+ │       ↓
+ ├── CI/CD
+ │       ↓
+ ├── Automated Testing
+ │       ↓
+2026
+ │
+ └── Full-Stack Architecture
+```
+
+The important part of the journey isn't simply adding technologies.
+
+It's understanding **how those technologies work together to create maintainable applications.**
+
+---
+
+## `07` — CURRENTLY LEVELING UP
+
+### From:
+
+```text
+"I can build an application."
+```
+
+### To:
+
+```text
+"I can build, test, containerize, automate and deploy an application."
+```
+
+<table>
+<tr>
+<td align="center">🐳<br/><b>Docker</b></td>
+<td align="center">🔄<br/><b>CI/CD</b></td>
+<td align="center">🧪<br/><b>Testing</b></td>
+<td align="center">🔐<br/><b>API Auth</b></td>
+</tr>
+<tr>
+<td align="center">⚛️<br/><b>React</b></td>
+<td align="center">🗄️<br/><b>PostgreSQL</b></td>
+<td align="center">⚡<br/><b>Redis</b></td>
+<td align="center">🚀<br/><b>Deployment</b></td>
+</tr>
+</table>
+
+---
+
+## `08` — QUALITY ENGINEERING
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                  QUALITY PIPELINE                   │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  Code                                               │
+│    │                                                │
+│    ▼                                                │
+│  PHPUnit ────────► Feature / Unit Tests             │
+│    │                                                │
+│    ▼                                                │
+│  Validation                                          │
+│    │                                                │
+│    ▼                                                │
+│  GitHub Actions                                      │
+│    │                                                │
+│    ▼                                                │
+│  Docker Build                                        │
+│    │                                                │
+│    ▼                                                │
+│  Deployment                                           │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+### What I'm practicing
+
+* Unit testing
+* Feature testing
+* PHPUnit
+* Automated CI tests
+* Docker build validation
+* Code validation
+* CI pipelines
+* Reliable development workflows
+
+---
+
+## `09` — DEVOPS WORKFLOW
+
+<div align="center">
+
+```text
+      👨‍💻
+    Developer
+       │
+       ▼
+   ┌────────┐
+   │  Git   │
+   └────┬───┘
+        │
+        ▼
+   ┌──────────┐
+   │  GitHub  │
+   └────┬─────┘
+        │
+        ▼
+┌─────────────────┐
+│ GitHub Actions  │
+└────────┬────────┘
+         │
+    ┌────┴────┐
+    ▼         ▼
+  🧪 Tests   🔍 Checks
+    │         │
+    └────┬────┘
+         ▼
+   🐳 Docker Build
+         │
+         ▼
+     🚀 Deploy
+         │
+         ▼
+    🌍 Production
+```
+
+</div>
+
+**The objective:** automate the path from **code → validation → build → deployment**.
+
+---
+
+## `10` — CURRENT FOCUS
+
+```text
+┌─────────────────────────────────────────────────┐
+│             CURRENT DEVELOPMENT                  │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  ████████████████████  Full-Stack Apps          │
+│  ██████████████████    Laravel APIs             │
+│  ████████████████      React                    │
+│  █████████████████     Docker                   │
+│  █████████████████     CI/CD                    │
+│  ███████████████       Testing                  │
+│  ██████████████        Cloud / Deployment       │
+│  ████████████████      SaaS Dashboards          │
+│  ███████████████       API Integrations         │
+│  █████████████         Scalable Architecture    │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
+
+---
+
+## `11` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehdi-133&bg_color=00000000&color=FFFFFF&line=00C6FF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## `12` — WHAT I'M BUILDING TOWARD
+
+```text
+                    FULL-STACK DEVELOPER
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+          ▼                 ▼                 ▼
+       PRODUCT           ENGINEERING        DELIVERY
+          │                 │                 │
+          ▼                 ▼                 ▼
+       React            Laravel             Docker
+       Blade            APIs                CI/CD
+       UX               Auth                Testing
+       Dashboards       Databases           Deployment
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            ▼
+                  REAL-WORLD SOFTWARE
+```
+
+I'm working toward becoming a developer who can take a product from:
+
+**idea → architecture → implementation → testing → deployment**
+
+---
+
+## `13` — REPOSITORY SNAPSHOT
+
+<div align="center">
+
+| Metric                      | Current |
+| :-------------------------- | :-----: |
+| Public repositories         |  **27** |
+| Followers                   |  **4**  |
+| Following                   |  **7**  |
+| GitHub stars received       |  **0**  |
+| Public profile achievements |  **2**  |
+
+</div>
+
+<sub>Snapshot based on my GitHub profile. Dynamic GitHub cards above should be treated as the live source for changing activity.</sub>
+
+---
+
+## `14` — CONNECT
+
+<div align="center">
+
+### Let's build something useful.
+
+I'm interested in:
+
+`Full-Stack Development` · `SaaS` · `APIs` · `Automation` · `DevOps` · `Real-World Products`
+
+<br/>
+
+<a href="https://github.com/Mehdi-133">GitHub</a>
+  •   <a href="https://www.linkedin.com/in/mehdi-karbitou">LinkedIn</a>
+  •   <a href="https://core-v2-portfolio.vercel.app/">Portfolio</a>
+  •   <a href="mailto:mehdikarbitou@gmail.com">Email</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mehdi-133&style=flat-square&color=00C6FF&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+**"Build it. Test it. Ship it. Improve it."**
+
+</div>
+
+---
+
+<!--
+=========================================================
+DYNAMIC SERVICES USED
+
+1. github-readme-stats
+   GitHub statistics + top languages
+
+2. streak-stats
+   Contribution streak information
+
+3. github-readme-activity-graph
+   Contribution/activity visualization
+
+4. shields.io
+   Technology and social badges
+
+5. capsule-render
+   Decorative animated header
+
+6. komarev
+   Profile-view counter
+
+All statistics are rendered dynamically.
+No GitHub metrics are hard-coded except the repository
+snapshot, which should be periodically updated.
+=========================================================
+-->
