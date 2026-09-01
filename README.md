@@ -334,17 +334,6 @@ A student-focused quiz application demonstrating backend development and applica
 └─────────────────────────────────────────────────┘
 ```
 
----
-
-## `11` — GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehdi-133&bg_color=00000000&color=FFFFFF&line=00C6FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
 
 I'm working toward becoming a developer who can take a product from:
 
