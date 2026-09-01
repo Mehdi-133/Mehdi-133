@@ -136,19 +136,182 @@ I'm particularly interested in:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mehdi-133&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF" />
+### `// DEVELOPER TELEMETRY`
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-133&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00C6FF&text_color=FFFFFF" />
+<img src="https://img.shields.io/badge/SYSTEM-GITHUB%20CONNECTED-00C853?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/DATA-LIVE-00C6FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MODE-REAL--TIME-7C3AED?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│  GITHUB TELEMETRY                                          │
+│  ────────────────────────────────────────────────────────  │
+│                                                            │
+│  ● CONNECTION      ESTABLISHED                            │
+│  ● DATA SOURCE     github.com/Mehdi-133                   │
+│  ● METRICS         CONTRIBUTIONS · CODE · REPOSITORIES    │
+│  ● STATUS          ████████████████████  ONLINE           │
+╰────────────────────────────────────────────────────────────╯
+```
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Mehdi-133&hide_border=true&background=00000000&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=888888" />
+### `01` — CODE OVERVIEW
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+#### `REPOSITORY METRICS`
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mehdi-133&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF&bg_color=00000000" />
+
+</td>
+
+<td width="50%" align="center">
+
+#### `LANGUAGE DISTRIBUTION`
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-133&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=7C3AED&text_color=FFFFFF&bg_color=00000000" />
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+### `02` — CONTRIBUTION ENGINE
+
+<img src="https://streak-stats.demolab.com?user=Mehdi-133&hide_border=true&background=00000000&ring=7C3AED&fire=FF4ECD&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br/><br/>
+
+### `03` — ACTIVITY MATRIX
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehdi-133&bg_color=00000000&color=FFFFFF&line=00C6FF&point=7C3AED&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+
+<br/>
+
+### `04` — CONTRIBUTION FLOW
+
+```text
+          CODE
+           │
+           ▼
+     ┌───────────┐
+     │   COMMIT  │
+     └─────┬─────┘
+           │
+           ▼
+     ┌───────────┐
+     │   PUSH    │
+     └─────┬─────┘
+           │
+           ▼
+     ┌───────────┐
+     │  GITHUB   │
+     └─────┬─────┘
+           │
+           ▼
+     ┌───────────┐
+     │  ACTIVITY │
+     └─────┬─────┘
+           │
+           ▼
+     ┌───────────┐
+     │  IMPROVE  │
+     └───────────┘
+```
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center">
+
+🟢
+
+**CONTRIBUTIONS**
+
+<br/>
+
+`LIVE DATA`
+
+</td>
+
+<td align="center">
+
+🔵
+
+**CODE**
+
+<br/>
+
+`MULTI-STACK`
+
+</td>
+
+<td align="center">
+
+🟣
+
+**STREAK**
+
+<br/>
+
+`KEEP BUILDING`
+
+</td>
+
+<td align="center">
+
+🟡
+
+**REPOSITORIES**
+
+<br/>
+
+`OPEN SOURCE`
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>📡 View analytics configuration</b></summary>
+
+<br/>
+
+**Data sources**
+
+`GitHub Readme Stats`
+`GitHub Streak Stats`
+`GitHub Activity Graph`
+
+All metrics are dynamically generated from GitHub.
+
+No statistics are manually hard-coded.
+
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
 
 </div>
 
-> Statistics above are generated dynamically from GitHub rather than hard-coded.
+> **Telemetry is dynamic. The code is real. The progress is ongoing.**
 
 ---
+
 
 <table>
 <tr>
