@@ -90,34 +90,6 @@ My development journey started with the fundamentals and is progressively moving
 </tr>
 </table>
 
----
-
-## `02` — WHAT I BUILD
-
-```text
-                 ┌───────────────────────┐
-                 │       IDEA / NEED      │
-                 └───────────┬───────────┘
-                             ↓
-                 ┌───────────────────────┐
-                 │      ARCHITECTURE     │
-                 └───────────┬───────────┘
-                             ↓
-        ┌────────────────────┼────────────────────┐
-        ↓                    ↓                    ↓
-   FRONTEND              BACKEND              DATABASE
-   React / Blade         Laravel / PHP        MySQL / PostgreSQL
-        │                    │                    │
-        └────────────────────┼────────────────────┘
-                             ↓
-                       REST API / AUTH
-                             ↓
-                    TESTING + VALIDATION
-                             ↓
-                    DOCKER / CI / CD
-                             ↓
-                         DEPLOYMENT
-```
 
 I'm particularly interested in:
 
