@@ -150,126 +150,367 @@ I'm particularly interested in:
 
 ---
 
-## `05` — FEATURED PROJECTS
+## `05` — PROJECT LAB
 
-> Projects below are selected from repositories currently present on my GitHub profile.
+<div align="center">
+
+### `// SYSTEMS I'VE BUILT`
+
+<img src="https://img.shields.io/badge/PROJECTS-06-00C6FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-7C3AED?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-00C853?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+`WEB APPS` · `APIs` · `LARAVEL` · `PHP` · `BLADE` · `JAVASCRIPT`
+
+</div>
+
+---
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🔗 You-Connect
+## 🔗 You-Connect
 
-**JavaScript · Web Application**
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-A project focused on building a modern web experience with JavaScript.
+### `WEB APPLICATION`
 
-**Stack**
+A JavaScript-based web application focused on creating a modern interactive web experience.
+
+**TECH**
 
 `JavaScript`
 
+**BUILD**
+
+`Frontend` · `UI` · `Interactions`
+
+<br/>
+
+<a href="https://github.com/Mehdi-133/You-Connect">
+
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<details>
+<summary>⚡ Project Details</summary>
+
+<br/>
+
+**Category:** Web Application
+
+**Main focus:** JavaScript development
+
+**Architecture:** Client-side application
+
 **Status:** Active repository
 
-<a href="https://github.com/Mehdi-133/You-Connect">View repository →</a>
+</details>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧩 Brigade API
+## 🧩 Brigade API
 
-**PHP · API Development**
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 
-A backend/API-oriented project demonstrating my progression into server-side development.
+### `BACKEND / API`
 
-**Stack**
+A backend-oriented project representing my progression into server-side development and API architecture.
+
+**TECH**
 
 `PHP` · `API`
 
-**Status:** Active repository
+**BUILD**
 
-<a href="https://github.com/Mehdi-133/Brigade-API">View repository →</a>
+`Backend` · `Endpoints` · `Server Logic`
 
-</td>
-</tr>
+<br/>
 
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/Mehdi-133/Brigade-API">
 
-### 🏗️ Fair_Share
+<img src="https://img.shields.io/badge/VIEW_API_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 
-**Blade · Laravel ecosystem**
+</a>
 
-A project using Blade and representing my progression toward server-rendered full-stack applications.
+<details>
+<summary>⚡ Project Details</summary>
 
-**Stack**
+<br/>
 
-`Blade`
+**Category:** API / Backend
 
-**Status:** Active repository
+**Main focus:** Server-side development
 
-<a href="https://github.com/Mehdi-133/Fair_Share">View repository →</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📋 TasksBoard
-
-**Blade · Project Management**
-
-A task-management project focused on organizing work through a web interface.
-
-**Stack**
-
-`Blade`
+**Architecture:** Backend / API
 
 **Status:** Active repository
 
-<a href="https://github.com/Mehdi-133/TasksBoard">View repository →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Job Dating
-
-**PHP · Web Application**
-
-A job-dating / recruitment-oriented web project.
-
-**Stack**
-
-`PHP`
-
-**Status:** Active repository
-
-<a href="https://github.com/Mehdi-133/job_dating">View repository →</a>
+</details>
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🧠 QuizAppStudent
-
-**PHP · Quiz Platform**
-
-A student-focused quiz application demonstrating backend development and application logic.
-
-**Stack**
-
-`PHP`
-
-**Status:** Active repository
-
-<a href="https://github.com/Mehdi-133/QuizAppStudent">View repository →</a>
-
-</td>
 </tr>
 </table>
 
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏗️ Fair_Share
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/BLADE-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+
+### `LARAVEL ECOSYSTEM`
+
+A server-rendered web application using Blade, representing my progression into Laravel-based full-stack development.
+
+**TECH**
+
+`Blade` · `Laravel`
+
+**BUILD**
+
+`MVC` · `Server Rendering` · `Web App`
+
+<br/>
+
+<a href="https://github.com/Mehdi-133/Fair_Share">
+
+<img src="https://img.shields.io/badge/OPEN_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<details>
+<summary>⚡ Project Details</summary>
+
+<br/>
+
+**Category:** Full-Stack Web
+
+**Main focus:** Laravel / Blade
+
+**Architecture:** MVC
+
+**Status:** Active repository
+
+</details>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📋 TasksBoard
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/BLADE-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+
+### `PROJECT MANAGEMENT`
+
+A task-management application focused on organizing work through a structured web interface.
+
+**TECH**
+
+`Blade` · `Laravel`
+
+**BUILD**
+
+`Task Management` · `CRUD` · `UI`
+
+<br/>
+
+<a href="https://github.com/Mehdi-133/TasksBoard">
+
+<img src="https://img.shields.io/badge/OPEN_BOARD-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<details>
+<summary>⚡ Project Details</summary>
+
+<br/>
+
+**Category:** Project Management
+
+**Main focus:** Web application development
+
+**Architecture:** Server-rendered application
+
+**Status:** Active repository
+
+</details>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 💼 Job Dating
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+
+### `RECRUITMENT PLATFORM`
+
+A recruitment-oriented web application focused on connecting candidates and opportunities.
+
+**TECH**
+
+`PHP`
+
+**BUILD**
+
+`Backend` · `Web App` · `Recruitment`
+
+<br/>
+
+<a href="https://github.com/Mehdi-133/job_dating">
+
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<details>
+<summary>⚡ Project Details</summary>
+
+<br/>
+
+**Category:** Recruitment
+
+**Main focus:** PHP web development
+
+**Architecture:** Web application
+
+**Status:** Active repository
+
+</details>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 QuizAppStudent
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+
+### `QUIZ PLATFORM`
+
+A student-focused quiz application demonstrating backend development, application logic, and database-driven functionality.
+
+**TECH**
+
+`PHP`
+
+**BUILD**
+
+`Backend` · `Logic` · `Database`
+
+<br/>
+
+<a href="https://github.com/Mehdi-133/QuizAppStudent">
+
+<img src="https://img.shields.io/badge/START_QUIZ_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<details>
+<summary>⚡ Project Details</summary>
+
+<br/>
+
+**Category:** Education
+
+**Main focus:** PHP application development
+
+**Architecture:** Database-driven web application
+
+**Status:** Active repository
+
+</details>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `PROJECT PIPELINE`
+
+```text
+IDEA
+  │
+  ▼
+┌─────────────┐
+│   DESIGN    │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│    BUILD    │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│    TEST     │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│    SHIP     │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│   IMPROVE   │
+└─────────────┘
+```
+
+<br/>
+
+<details>
+<summary><b>🔎 Explore all repositories</b></summary>
+
+<br/>
+
+<a href="https://github.com/Mehdi-133?tab=repositories">
+
+<img src="https://img.shields.io/badge/BROWSE_ALL_REPOSITORIES-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
+
+</div>
+
+---
 
 
 ## `07` — CURRENTLY LEVELING UP
