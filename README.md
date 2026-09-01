@@ -513,8 +513,6 @@ I'm working toward becoming a developer who can take a product from:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:00C6FF&height=4&section=header" width="100%"/>
 
-<br/>
-
 # `LET'S BUILD.`
 
 ### <code>Ideas → Code → Products</code>
