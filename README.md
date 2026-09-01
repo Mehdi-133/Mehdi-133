@@ -123,66 +123,40 @@ I'm particularly interested in:
 
 **Modern Web Applications · SaaS · Dashboards · APIs · Automation · Business Solutions · DevOps**
 
----
 
-## `03` — TECH STACK
-
-### 🎨 Frontend
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Tailwind-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/Bootstrap-18181B?style=flat-square&logo=bootstrap&logoColor=7952B3" />
-<img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-18181B?style=flat-square&logo=vite&logoColor=646CFF" />
-</p>
-
-### ⚙️ Backend
 
 <p>
 <img src="https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=777BB4" />
 <img src="https://img.shields.io/badge/Laravel-18181B?style=flat-square&logo=laravel&logoColor=FF2D20" />
-<img src="https://img.shields.io/badge/Blade-18181B?style=flat-square&logo=laravel&logoColor=FF2D20" />
-<img src="https://img.shields.io/badge/REST%20API-18181B?style=flat-square&logo=fastapi&logoColor=00C7B7" />
-<img src="https://img.shields.io/badge/Sanctum-18181B?style=flat-square&logo=laravel&logoColor=FF2D20" />
-</p>
 
-### 🗄️ Database
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/MariaDB-18181B?style=flat-square&logo=mariadb&logoColor=003545" />
-<img src="https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Redis-18181B?style=flat-square&logo=redis&logoColor=DC382D" />
-</p>
+---
 
-### 🚢 DevOps & Engineering
+## `04 / STACK`
 
-<p>
-<img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Docker%20Compose-18181B?style=flat-square&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-18181B?style=flat-square&logo=githubactions&logoColor=2088FF" />
-<img src="https://img.shields.io/badge/CI%2FCD-18181B?style=flat-square&logo=githubactions&logoColor=2088FF" />
-<img src="https://img.shields.io/badge/PHPUnit-18181B?style=flat-square&logo=php&logoColor=777BB4" />
-</p>
+<div align="center">
 
-### 🔌 APIs & Services
+### `FRONTEND`
 
-<p>
-<img src="https://img.shields.io/badge/Axios-18181B?style=flat-square&logo=axios&logoColor=5A29E4" />
-<img src="https://img.shields.io/badge/Postman-18181B?style=flat-square&logo=postman&logoColor=FF6C37" />
-<img src="https://img.shields.io/badge/Firebase-18181B?style=flat-square&logo=firebase&logoColor=FFCA28" />
-<img src="https://img.shields.io/badge/Mapbox-18181B?style=flat-square&logo=mapbox&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini%20API-18181B?style=flat-square&logo=google&logoColor=4285F4" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,vite" />
 
-### 🧰 Workflow
+### `BACKEND`
 
-`Git` · `GitHub` · `VS Code` · `Figma` · `Draw.io` · `Jira` · `Trello` · `Agile`
+<img src="https://skillicons.dev/icons?i=php,laravel" />
+
+### `DATABASE`
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+
+### `DEVOPS`
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github" />
+
+### `TOOLS & SERVICES`
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,firebase" />
+
+</div>
 
 ---
 
