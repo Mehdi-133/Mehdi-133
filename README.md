@@ -301,34 +301,6 @@ A student-focused quiz application demonstrating backend development and applica
 </tr>
 </table>
 
----
-
-## `08` — QUALITY ENGINEERING
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                  QUALITY PIPELINE                   │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  Code                                               │
-│    │                                                │
-│    ▼                                                │
-│  PHPUnit ────────► Feature / Unit Tests             │
-│    │                                                │
-│    ▼                                                │
-│  Validation                                          │
-│    │                                                │
-│    ▼                                                │
-│  GitHub Actions                                      │
-│    │                                                │
-│    ▼                                                │
-│  Docker Build                                        │
-│    │                                                │
-│    ▼                                                │
-│  Deployment                                           │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
 
 ### What I'm practicing
 
