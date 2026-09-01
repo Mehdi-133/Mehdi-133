@@ -458,39 +458,6 @@ A student-focused quiz application demonstrating backend development, applicatio
 
 <div align="center">
 
-### `PROJECT PIPELINE`
-
-```text
-IDEA
-  │
-  ▼
-┌─────────────┐
-│   DESIGN    │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│    BUILD    │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│    TEST     │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│    SHIP     │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│   IMPROVE   │
-└─────────────┘
-```
-
-<br/>
-
 <details>
 <summary><b>🔎 Explore all repositories</b></summary>
 
