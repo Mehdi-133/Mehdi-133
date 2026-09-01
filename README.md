@@ -270,49 +270,7 @@ A student-focused quiz application demonstrating backend development and applica
 </tr>
 </table>
 
----
 
-## `06` — DEVELOPER JOURNEY
-
-```text
-2025
- │
- ├── HTML / CSS
- │       ↓
- ├── JavaScript
- │       ↓
- ├── PHP + MySQL
- │       ↓
- ├── PHP OOP + PDO
- │       ↓
- ├── MVC + Laravel
- │       ↓
- ├── Blade + Tailwind
- │       ↓
- ├── REST APIs
- │       ↓
- ├── React ecosystem
- │       ↓
- ├── Authentication
- │       ↓
- ├── Docker
- │       ↓
- ├── GitHub Actions
- │       ↓
- ├── CI/CD
- │       ↓
- ├── Automated Testing
- │       ↓
-2026
- │
- └── Full-Stack Architecture
-```
-
-The important part of the journey isn't simply adding technologies.
-
-It's understanding **how those technologies work together to create maintainable applications.**
-
----
 
 ## `07` — CURRENTLY LEVELING UP
 
