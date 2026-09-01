@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=120&section=header&text=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20DEPLOY&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=header&text=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20DEPLOY&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 
 </div>
 
@@ -132,20 +132,10 @@ I'm particularly interested in:
 
 ---
 
-## 04 — GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mehdi-133&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-133&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00C6FF&text_color=FFFFFF" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Mehdi-133&hide_border=true&background=00000000&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=888888" />
-
-</div>
+## 04 — GITHUB ANALYTICS <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mehdi-133&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-133&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00C6FF&text_color=FFFFFF" /> <br/> <img src="https://streak-stats.demolab.com?user=Mehdi-133&hide_border=true&background=00000000&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=888888" />
 
 ---
+
 
 <table>
 <tr>
@@ -450,7 +440,9 @@ A student-focused quiz application demonstrating backend development, applicatio
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
 
 </div>
 
@@ -486,7 +478,6 @@ A student-focused quiz application demonstrating backend development, applicatio
 </tr>
 </table>
 
----
 
 ## `10` — CURRENT FOCUS
 
@@ -520,7 +511,7 @@ I'm working toward becoming a developer who can take a product from:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:00C6FF&height=4&section=header" width="100%"/>
 
 <br/>
 
@@ -676,3 +667,4 @@ GitHub-compatible:
 - Only Markdown/HTML/SVG/image services
 =========================================================
 -->
+
