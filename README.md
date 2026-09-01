@@ -313,52 +313,6 @@ A student-focused quiz application demonstrating backend development and applica
 * CI pipelines
 * Reliable development workflows
 
----
-
-## `09` — DEVOPS WORKFLOW
-
-<div align="center">
-
-```text
-      👨‍💻
-    Developer
-       │
-       ▼
-   ┌────────┐
-   │  Git   │
-   └────┬───┘
-        │
-        ▼
-   ┌──────────┐
-   │  GitHub  │
-   └────┬─────┘
-        │
-        ▼
-┌─────────────────┐
-│ GitHub Actions  │
-└────────┬────────┘
-         │
-    ┌────┴────┐
-    ▼         ▼
-  🧪 Tests   🔍 Checks
-    │         │
-    └────┬────┘
-         ▼
-   🐳 Docker Build
-         │
-         ▼
-     🚀 Deploy
-         │
-         ▼
-    🌍 Production
-```
-
-</div>
-
-**The objective:** automate the path from **code → validation → build → deployment**.
-
----
-
 ## `10` — CURRENT FOCUS
 
 ```text
@@ -392,50 +346,13 @@ A student-focused quiz application demonstrating backend development and applica
 
 ---
 
-## `12` — WHAT I'M BUILDING TOWARD
-
-```text
-                    FULL-STACK DEVELOPER
-                            │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-          ▼                 ▼                 ▼
-       PRODUCT           ENGINEERING        DELIVERY
-          │                 │                 │
-          ▼                 ▼                 ▼
-       React            Laravel             Docker
-       Blade            APIs                CI/CD
-       UX               Auth                Testing
-       Dashboards       Databases           Deployment
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            ▼
-                  REAL-WORLD SOFTWARE
-```
-
 I'm working toward becoming a developer who can take a product from:
 
 **idea → architecture → implementation → testing → deployment**
 
 ---
 
-## `13` — REPOSITORY SNAPSHOT
 
-<div align="center">
-
-| Metric                      | Current |
-| :-------------------------- | :-----: |
-| Public repositories         |  **27** |
-| Followers                   |  **4**  |
-| Following                   |  **7**  |
-| GitHub stars received       |  **0**  |
-| Public profile achievements |  **2**  |
-
-</div>
-
-<sub>Snapshot based on my GitHub profile. Dynamic GitHub cards above should be treated as the live source for changing activity.</sub>
-
----
 
 ## `14` — CONNECT
 
