@@ -423,7 +423,9 @@ A student-focused quiz application demonstrating backend development, applicatio
 </tr>
 </table>
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
+
 
 <div align="center">
 
