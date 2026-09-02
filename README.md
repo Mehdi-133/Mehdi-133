@@ -32,7 +32,8 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
+
 
 ## `01` — SYSTEM OVERVIEW
 
@@ -102,7 +103,8 @@ I'm particularly interested in:
 <img src="https://img.shields.io/badge/Laravel-18181B?style=flat-square&logo=laravel&logoColor=FF2D20" />
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
+
 
 ## `04 / STACK`
 
@@ -130,11 +132,13 @@ I'm particularly interested in:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
+
 
 ## 04 — GITHUB ANALYTICS <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mehdi-133&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-133&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00C6FF&text_color=FFFFFF" /> <br/> <img src="https://streak-stats.demolab.com?user=Mehdi-133&hide_border=true&background=00000000&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=888888" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
+
 
 
 <table>
@@ -424,9 +428,6 @@ A student-focused quiz application demonstrating backend development, applicatio
 </table>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
-
-
 <div align="center">
 
 <details>
@@ -448,7 +449,8 @@ A student-focused quiz application demonstrating backend development, applicatio
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
+
 
 
 ## `07` — CURRENTLY LEVELING UP
@@ -507,7 +509,8 @@ I'm working toward becoming a developer who can take a product from:
 
 **idea → architecture → implementation → testing → deployment**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
+
 
 ## `14` — CONNECT
 
@@ -602,7 +605,8 @@ Code Quality
 
 <br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
+
 
 ### `STATUS`
 
