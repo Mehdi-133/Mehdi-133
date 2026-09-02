@@ -1,29 +1,29 @@
 <!-- =========================================================
-     MEHDI KARBITOU — GitHub Profile README
-     Repository: github.com/Mehdi-133/Mehdi-133
-     ========================================================= -->
+     MEHDI KARBITOU — GitHub Profile README
+     Repository: github.com/Mehdi-133/Mehdi-133
+     ========================================================= -->
 
 <div align="center">
 
-# `MEHDI KARBITOU`
+MEHDI KARBITOU
 
-### Full-Stack Developer in Training · Builder · Problem Solver
+Full-Stack Developer in Training · Builder · Problem Solver
 
-**I build web applications — and I'm learning how to build them properly.**
+I build web applications — and I'm learning how to build them properly.
 
 <br/>
 
 <a href="https://github.com/Mehdi-133">
-  <img src="https://img.shields.io/badge/GitHub-Mehdi--133-18181B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Mehdi--133-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/mehdi-karbitou">
-  <img src="https://img.shields.io/badge/LinkedIn-Mehdi%20Karbitou-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Mehdi%20Karbitou-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://core-v2-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:mehdikarbitou@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -32,136 +32,150 @@
 
 </div>
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
 
+</div>
 
-## `01` — SYSTEM OVERVIEW
+01 — SYSTEM OVERVIEW
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-### 👨‍💻 Who am I?
+👨‍💻 Who am I?
 
-I'm **Mehdi Karbitou**, a Full-Stack Developer in training at **YouCode-UM6P**, based in Morocco.
+I'm Mehdi Karbitou, a Full-Stack Developer in training at YouCode-UM6P, based in Morocco.
 
 I enjoy turning ideas and real-world problems into useful digital products.
 
 My development journey started with the fundamentals and is progressively moving toward:
 
-* Full-stack architecture
-* REST APIs
-* Modern frontend applications
-* Authentication
-* Databases
-* Testing
-* Docker
-* CI/CD
-* Deployment
-* Production-oriented development
+Full-stack architecture
 
-> **My goal isn't just to make applications work.**
->
-> **It's to understand how to build, test, ship and maintain them.**
+REST APIs
+
+Modern frontend applications
+
+Authentication
+
+Databases
+
+Testing
+
+Docker
+
+CI/CD
+
+Deployment
+
+Production-oriented development
+
+My goal isn't just to make applications work.
+
+It's to understand how to build, test, ship and maintain them.
 
 </td>
 
 <td width="45%" valign="top">
 
-### ⚡ Quick Status
+⚡ Quick Status
 
-```text
 ┌─────────────────────────────┐
-│  DEVELOPER STATUS           │
+│  DEVELOPER STATUS           │
 ├─────────────────────────────┤
-│  Focus       Full-Stack     │
-│  Environment YouCode-UM6P   │
-│  Location    Morocco 🇲🇦    │
-│  Mode        Building       │
-│  Learning    DevOps + APIs  │
-│  Philosophy  Build better   │
+│  Focus       Full-Stack     │
+│  Environment YouCode-UM6P   │
+│  Location    Morocco 🇲🇦    │
+│  Mode        Building       │
+│  Learning    DevOps + APIs  │
+│  Philosophy  Build better   │
 └─────────────────────────────┘
-```
 
-**Currently leveling up**
+Currently leveling up
 
-`Laravel` `React` `Docker` `CI/CD` `Testing`
+Laravel React Docker CI/CD Testing
 
 </td>
 </tr>
 </table>
 
-
 I'm particularly interested in:
 
-**Modern Web Applications · SaaS · Dashboards · APIs · Automation · Business Solutions · DevOps**
-
-
+Modern Web Applications · SaaS · Dashboards · APIs · Automation · Business Solutions · DevOps
 
 <p>
 <img src="https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=777BB4" />
 <img src="https://img.shields.io/badge/Laravel-18181B?style=flat-square&logo=laravel&logoColor=FF2D20" />
 
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
 
+</div>
 
-## `04 / STACK`
+04 / STACK
 
 <div align="center">
 
-### `FRONTEND`
+FRONTEND
 
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,vite" />
 
-### `BACKEND`
+BACKEND
 
 <img src="https://skillicons.dev/icons?i=php,laravel" />
 
-### `DATABASE`
+DATABASE
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
 
-### `DEVOPS`
+DEVOPS
 
 <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github" />
 
-### `TOOLS & SERVICES`
+TOOLS & SERVICES
 
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma,firebase" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
-
-
-## 04 — GITHUB ANALYTICS <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mehdi-133&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-133&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00C6FF&text_color=FFFFFF" /> <br/> <img src="https://streak-stats.demolab.com?user=Mehdi-133&hide_border=true&background=00000000&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=888888" />
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
 
+</div>
 
+04 — GITHUB ANALYTICS <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mehdi-133&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-133&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00C6FF&text_color=FFFFFF" /> <br/> <img src="https://streak-stats.demolab.com?user=Mehdi-133&hide_border=true&background=00000000&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=888888" />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
+
+</div>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🔗 You-Connect
+🔗 You-Connect
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-### `WEB APPLICATION`
+WEB APPLICATION
 
 A JavaScript-based web application focused on creating a modern interactive web experience.
 
-**TECH**
+TECH
 
-`JavaScript`
+JavaScript
 
-**BUILD**
+BUILD
 
-`Frontend` · `UI` · `Interactions`
+Frontend · UI · Interactions
 
 <br/>
 
@@ -176,13 +190,13 @@ A JavaScript-based web application focused on creating a modern interactive web 
 
 <br/>
 
-**Category:** Web Application
+Category: Web Application
 
-**Main focus:** JavaScript development
+Main focus: JavaScript development
 
-**Architecture:** Client-side application
+Architecture: Client-side application
 
-**Status:** Active repository
+Status: Active repository
 
 </details>
 
@@ -190,22 +204,22 @@ A JavaScript-based web application focused on creating a modern interactive web 
 
 <td width="50%" valign="top">
 
-## 🧩 Brigade API
+🧩 Brigade API
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 
-### `BACKEND / API`
+BACKEND / API
 
 A backend-oriented project representing my progression into server-side development and API architecture.
 
-**TECH**
+TECH
 
-`PHP` · `API`
+PHP · API
 
-**BUILD**
+BUILD
 
-`Backend` · `Endpoints` · `Server Logic`
+Backend · Endpoints · Server Logic
 
 <br/>
 
@@ -220,13 +234,13 @@ A backend-oriented project representing my progression into server-side developm
 
 <br/>
 
-**Category:** API / Backend
+Category: API / Backend
 
-**Main focus:** Server-side development
+Main focus: Server-side development
 
-**Architecture:** Backend / API
+Architecture: Backend / API
 
-**Status:** Active repository
+Status: Active repository
 
 </details>
 
@@ -235,29 +249,27 @@ A backend-oriented project representing my progression into server-side developm
 </tr>
 </table>
 
----
-
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🏗️ Fair_Share
+🏗️ Fair_Share
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
 <img src="https://img.shields.io/badge/BLADE-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 
-### `LARAVEL ECOSYSTEM`
+LARAVEL ECOSYSTEM
 
 A server-rendered web application using Blade, representing my progression into Laravel-based full-stack development.
 
-**TECH**
+TECH
 
-`Blade` · `Laravel`
+Blade · Laravel
 
-**BUILD**
+BUILD
 
-`MVC` · `Server Rendering` · `Web App`
+MVC · Server Rendering · Web App
 
 <br/>
 
@@ -272,13 +284,13 @@ A server-rendered web application using Blade, representing my progression into 
 
 <br/>
 
-**Category:** Full-Stack Web
+Category: Full-Stack Web
 
-**Main focus:** Laravel / Blade
+Main focus: Laravel / Blade
 
-**Architecture:** MVC
+Architecture: MVC
 
-**Status:** Active repository
+Status: Active repository
 
 </details>
 
@@ -286,22 +298,22 @@ A server-rendered web application using Blade, representing my progression into 
 
 <td width="50%" valign="top">
 
-## 📋 TasksBoard
+📋 TasksBoard
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
 <img src="https://img.shields.io/badge/BLADE-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 
-### `PROJECT MANAGEMENT`
+PROJECT MANAGEMENT
 
 A task-management application focused on organizing work through a structured web interface.
 
-**TECH**
+TECH
 
-`Blade` · `Laravel`
+Blade · Laravel
 
-**BUILD**
+BUILD
 
-`Task Management` · `CRUD` · `UI`
+Task Management · CRUD · UI
 
 <br/>
 
@@ -316,13 +328,13 @@ A task-management application focused on organizing work through a structured we
 
 <br/>
 
-**Category:** Project Management
+Category: Project Management
 
-**Main focus:** Web application development
+Main focus: Web application development
 
-**Architecture:** Server-rendered application
+Architecture: Server-rendered application
 
-**Status:** Active repository
+Status: Active repository
 
 </details>
 
@@ -331,29 +343,27 @@ A task-management application focused on organizing work through a structured we
 </tr>
 </table>
 
----
-
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 💼 Job Dating
+💼 Job Dating
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 
-### `RECRUITMENT PLATFORM`
+RECRUITMENT PLATFORM
 
 A recruitment-oriented web application focused on connecting candidates and opportunities.
 
-**TECH**
+TECH
 
-`PHP`
+PHP
 
-**BUILD**
+BUILD
 
-`Backend` · `Web App` · `Recruitment`
+Backend · Web App · Recruitment
 
 <br/>
 
@@ -368,13 +378,13 @@ A recruitment-oriented web application focused on connecting candidates and oppo
 
 <br/>
 
-**Category:** Recruitment
+Category: Recruitment
 
-**Main focus:** PHP web development
+Main focus: PHP web development
 
-**Architecture:** Web application
+Architecture: Web application
 
-**Status:** Active repository
+Status: Active repository
 
 </details>
 
@@ -382,22 +392,22 @@ A recruitment-oriented web application focused on connecting candidates and oppo
 
 <td width="50%" valign="top">
 
-## 🧠 QuizAppStudent
+🧠 QuizAppStudent
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 
-### `QUIZ PLATFORM`
+QUIZ PLATFORM
 
 A student-focused quiz application demonstrating backend development, application logic, and database-driven functionality.
 
-**TECH**
+TECH
 
-`PHP`
+PHP
 
-**BUILD**
+BUILD
 
-`Backend` · `Logic` · `Database`
+Backend · Logic · Database
 
 <br/>
 
@@ -412,13 +422,13 @@ A student-focused quiz application demonstrating backend development, applicatio
 
 <br/>
 
-**Category:** Education
+Category: Education
 
-**Main focus:** PHP application development
+Main focus: PHP application development
 
-**Architecture:** Database-driven web application
+Architecture: Database-driven web application
 
-**Status:** Active repository
+Status: Active repository
 
 </details>
 
@@ -426,7 +436,6 @@ A student-focused quiz application demonstrating backend development, applicatio
 
 </tr>
 </table>
-
 
 <div align="center">
 
@@ -445,27 +454,29 @@ A student-focused quiz application demonstrating backend development, applicatio
 
 <br/>
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
 
 </div>
 
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
 
+</div>
 
+07 — CURRENTLY LEVELING UP
 
-## `07` — CURRENTLY LEVELING UP
+From:
 
-### From:
-
-```text
 "I can build an application."
-```
 
-### To:
+To:
 
-```text
 "I can build, test, containerize, automate and deploy an application."
-```
 
 <table>
 <tr>
@@ -482,45 +493,44 @@ A student-focused quiz application demonstrating backend development, applicatio
 </tr>
 </table>
 
+10 — CURRENT FOCUS
 
-## `10` — CURRENT FOCUS
-
-```text
 ┌─────────────────────────────────────────────────┐
-│             CURRENT DEVELOPMENT                  │
+│             CURRENT DEVELOPMENT                  │
 ├─────────────────────────────────────────────────┤
-│                                                 │
-│  ████████████████████  Full-Stack Apps          │
-│  ██████████████████    Laravel APIs             │
-│  ████████████████      React                    │
-│  █████████████████     Docker                   │
-│  █████████████████     CI/CD                    │
-│  ███████████████       Testing                  │
-│  ██████████████        Cloud / Deployment       │
-│  ████████████████      SaaS Dashboards          │
-│  ███████████████       API Integrations         │
-│  █████████████         Scalable Architecture    │
-│                                                 │
+│                                                 │
+│  ████████████████████  Full-Stack Apps          │
+│  ██████████████████    Laravel APIs             │
+│  ████████████████      React                    │
+│  █████████████████     Docker                   │
+│  █████████████████     CI/CD                    │
+│  ███████████████       Testing                  │
+│  ██████████████        Cloud / Deployment       │
+│  ████████████████      SaaS Dashboards          │
+│  ███████████████       API Integrations         │
+│  █████████████         Scalable Architecture    │
+│                                                 │
 └─────────────────────────────────────────────────┘
-```
-
 
 I'm working toward becoming a developer who can take a product from:
 
-**idea → architecture → implementation → testing → deployment**
+idea → architecture → implementation → testing → deployment
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
 
+</div>
 
-## `14` — CONNECT
+14 — CONNECT
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:00C6FF&height=4&section=header" width="100%"/>
 
-# `LET'S BUILD.`
+LET'S BUILD.
 
-### <code>Ideas → Code → Products</code>
+<code>Ideas → Code → Products</code>
 
 <p>
 I’m always interested in building things that are
@@ -534,9 +544,9 @@ I’m always interested in building things that are
 
 <td align="center" width="25%">
 
-### 🟢
+🟢
 
-**BUILD**
+BUILD
 
 Full-Stack
 SaaS
@@ -546,9 +556,9 @@ APIs
 
 <td align="center" width="25%">
 
-### 🔵
+🔵
 
-**EXPLORE**
+EXPLORE
 
 Automation
 AI
@@ -558,9 +568,9 @@ Architecture
 
 <td align="center" width="25%">
 
-### 🟣
+🟣
 
-**SHIP**
+SHIP
 
 Docker
 CI/CD
@@ -570,9 +580,9 @@ Testing
 
 <td align="center" width="25%">
 
-### 🟡
+🟡
 
-**IMPROVE**
+IMPROVE
 
 Performance
 UX
@@ -585,7 +595,7 @@ Code Quality
 
 <br/>
 
-### `// FIND ME ONLINE`
+// FIND ME ONLINE
 
 <a href="https://github.com/Mehdi-133">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -605,29 +615,30 @@ Code Quality
 
 <br/><br/>
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
 
+</div>
 
-### `STATUS`
+STATUS
 
 <img src="https://img.shields.io/badge/●%20AVAILABLE%20TO%20BUILD-00C853?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-```text
 ╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   $ connect --with mehdi                            │
-│                                                      │
-│   ✓ GitHub                                           │
-│   ✓ LinkedIn                                         │
-│   ✓ Portfolio                                        │
-│   ✓ Email                                            │
-│                                                      │
-│   CONNECTION STATUS:  ████████████████  ONLINE       │
-│                                                      │
+│                                                      │
+│   $ connect --with mehdi                            │
+│                                                      │
+│   ✓ GitHub                                           │
+│   ✓ LinkedIn                                         │
+│   ✓ Portfolio                                        │
+│   ✓ Email                                            │
+│                                                      │
+│   CONNECTION STATUS:  ████████████████  ONLINE       │
+│                                                      │
 ╰──────────────────────────────────────────────────────╯
-```
 
 <br/>
 
@@ -635,7 +646,7 @@ Code Quality
 
 <br/><br/>
 
-### `ONE LAST THING`
+ONE LAST THING
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Build+it.;Test+it.;Ship+it.;Improve+it.;Repeat." />
 
@@ -671,4 +682,3 @@ GitHub-compatible:
 - Only Markdown/HTML/SVG/image services
 =========================================================
 -->
-
