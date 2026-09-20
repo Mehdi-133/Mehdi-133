@@ -1,1345 +1,458 @@
 <!-- =========================================================
-
-     MEHDI KARBITOU — GitHub Profile README
-
-     Repository: github.com/Mehdi-133/Mehdi-133
-
+     MEHDI KARBITOU — GITHUB PROFILE
+     Concept: Developer × Camping × Exploration
      ========================================================= -->
-
-
 
 <div align="center">
 
+# 🏕️ `MEHDI KARBITOU`
 
+### Full-Stack Developer · Builder · Explorer
 
-# `MEHDI KARBITOU`
-
-
-
-### Full-Stack Developer in Training · Builder · Problem Solver
-
-
-
-**I build web applications — and I'm learning how to build them properly.**
-
-
+**Building software. Exploring technology. Turning ideas into useful products.**
 
 <br/>
 
-
-
 <a href="https://github.com/Mehdi-133">
-
   <img src="https://img.shields.io/badge/GitHub-Mehdi--133-18181B?style=for-the-badge&logo=github&logoColor=white" />
-
 </a>
 
 <a href="https://www.linkedin.com/in/mehdi-karbitou">
-
   <img src="https://img.shields.io/badge/LinkedIn-Mehdi%20Karbitou-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
-
 </a>
 
 <a href="https://core-v2-portfolio.vercel.app/">
-
-  <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Portfolio-Explore-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="mailto:mehdikarbitou@gmail.com">
-
   <img src="https://img.shields.io/badge/Email-Contact-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
-
 </a>
-
-
 
 <br/><br/>
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=header&text=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20DEPLOY&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16251D,50:254D32,100:C58B43&height=120&section=header&text=DEVELOPER%20BASECAMP&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 
 </div>
 
+---
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
-
-
-
-
-
-## `01` — SYSTEM OVERVIEW
-
-
+## `01` — 🧭 MY TRAIL
 
 <table>
-
 <tr>
+<td width="60%" valign="top">
 
-<td width="55%" valign="top">
+### Hey, I'm Mehdi 👋
 
+I'm a **Full-Stack Developer in training at YouCode**, based in Morocco 🇲🇦.
 
+I enjoy taking **ideas and real-world problems** and turning them into useful digital products.
 
-### 👨‍💻 Who am I?
+My approach to development is simple:
 
+> **Explore → Learn → Build → Improve**
 
+I don't only want to know how to make an application work.
 
-I'm **Mehdi Karbitou**, a Full-Stack Developer in training at **YouCode-UM6P**, based in Morocco.
+I want to understand how to **design it, build it, test it, ship it, and improve it.**
 
+And when I'm away from code, I enjoy something with a surprisingly similar mindset:
 
+**🏕️ Camping and exploring the outdoors.**
 
-I enjoy turning ideas and real-world problems into useful digital products.
-
-
-
-My development journey started with the fundamentals and is progressively moving toward:
-
-
-
-* Full-stack architecture
-
-* REST APIs
-
-* Modern frontend applications
-
-* Authentication
-
-* Databases
-
-* Testing
-
-* Docker
-
-* CI/CD
-
-* Deployment
-
-* Production-oriented development
-
-
-
-> **My goal isn't just to make applications work.**
-
->
-
-> **It's to understand how to build, test, ship and maintain them.**
-
-
+Both development and exploration require curiosity, preparation, problem-solving, and the willingness to keep moving when the path isn't obvious.
 
 </td>
 
+<td width="40%" valign="top">
 
-
-<td width="45%" valign="top">
-
-
-
-### ⚡ Quick Status
-
-
+### 📍 BASECAMP STATUS
 
 ```text
-
-┌─────────────────────────────┐
-
-│  DEVELOPER STATUS           │
-
-├─────────────────────────────┤
-
-│  Focus       Full-Stack     │
-
-│  Environment YouCode-UM6P   │
-
-│  Location    Morocco 🇲🇦    │
-
-│  Mode        Building       │
-
-│  Learning    DevOps + APIs  │
-
-│  Philosophy  Build better   │
-
-└─────────────────────────────┘
-
+┌──────────────────────────┐
+│  DEVELOPER BASECAMP      │
+├──────────────────────────┤
+│                          │
+│  📍 Morocco              │
+│  💻 Full-Stack           │
+│  🎓 YouCode              │
+│  🏕️ Explorer             │
+│                          │
+│  STATUS                  │
+│  ● Building              │
+│                          │
+└──────────────────────────┘
 ```
 
+### Currently exploring
 
+`Next.js` `MongoDB`
 
-**Currently leveling up**
+`Laravel` `Docker`
 
-
-
-`Laravel` `React` `Docker` `CI/CD` `Testing`
-
-
+`CI/CD` `Testing`
 
 </td>
-
 </tr>
-
 </table>
 
+---
 
-
-
-
-I'm particularly interested in:
-
-
-
-**Modern Web Applications · SaaS · Dashboards · APIs · Automation · Business Solutions · DevOps**
-
-
-
-
-
-
-
-<p>
-
-<img src="https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=777BB4" />
-
-<img src="https://img.shields.io/badge/Laravel-18181B?style=flat-square&logo=laravel&logoColor=FF2D20" />
-
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
-
-
-
-
-
-## `04 / STACK`
-
-
+## `02` — 🎒 WHAT'S IN MY BACKPACK?
 
 <div align="center">
-
-
 
 ### `FRONTEND`
 
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs,vite" />
 
-
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,vite" />
-
-
+<br/><br/>
 
 ### `BACKEND`
 
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
 
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=php,laravel" />
+### `DATA`
 
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 
+<br/><br/>
 
-### `DATABASE`
-
-
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
-
-
-
-### `DEVOPS`
-
-
+### `DEVOPS & SHIP`
 
 <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github" />
 
+<br/><br/>
 
-
-### `TOOLS & SERVICES`
-
-
+### `TOOLS`
 
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma,firebase" />
 
-
-
 </div>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
-
-
-
-
-
-## 04 — GITHUB ANALYTICS <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mehdi-133&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-133&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00C6FF&text_color=FFFFFF" /> <br/> <img src="https://streak-stats.demolab.com?user=Mehdi-133&hide_border=true&background=00000000&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=888888" />
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
-
-
-
-
-
-
-
-<table>
-
-<tr>
-
-
-
-<td width="50%" valign="top">
-
-
-
-## 🔗 You-Connect
-
-
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-
-
-### `WEB APPLICATION`
-
-
-
-A JavaScript-based web application focused on creating a modern interactive web experience.
-
-
-
-**TECH**
-
-
-
-`JavaScript`
-
-
-
-**BUILD**
-
-
-
-`Frontend` · `UI` · `Interactions`
-
-
 
 <br/>
 
+<div align="center">
 
+> Every explorer needs the right tools.
+> These are the technologies currently in my development backpack.
+
+</div>
+
+---
+
+## `03` — 🗺️ FEATURED EXPEDITIONS
+
+Projects are where I turn what I learn into something real.
+
+### 🔗 YouConnect
+
+**Peer-learning & community web platform**
+
+A project focused on building a digital environment where students can connect, share knowledge, interact, and learn together.
+
+`JavaScript` · `Frontend` · `UI/UX` · `Web Application`
 
 <a href="https://github.com/Mehdi-133/You-Connect">
-
-
-
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-
-
-
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-254D32?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-
-
-<details>
-
-<summary>⚡ Project Details</summary>
-
-
-
-<br/>
-
-
-
-**Category:** Web Application
-
-
-
-**Main focus:** JavaScript development
-
-
-
-**Architecture:** Client-side application
-
-
-
-**Status:** Active repository
-
-
-
-</details>
-
-
-
-</td>
-
-
-
-<td width="50%" valign="top">
-
-
-
-## 🧩 Brigade API
-
-
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-
-
-
-### `BACKEND / API`
-
-
-
-A backend-oriented project representing my progression into server-side development and API architecture.
-
-
-
-**TECH**
-
-
-
-`PHP` · `API`
-
-
-
-**BUILD**
-
-
-
-`Backend` · `Endpoints` · `Server Logic`
-
-
-
-<br/>
-
-
-
-<a href="https://github.com/Mehdi-133/Brigade-API">
-
-
-
-<img src="https://img.shields.io/badge/VIEW_API_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-
-
-
-</a>
-
-
-
-<details>
-
-<summary>⚡ Project Details</summary>
-
-
-
-<br/>
-
-
-
-**Category:** API / Backend
-
-
-
-**Main focus:** Server-side development
-
-
-
-**Architecture:** Backend / API
-
-
-
-**Status:** Active repository
-
-
-
-</details>
-
-
-
-</td>
-
-
-
-</tr>
-
-</table>
-
-
+<br/><br/>
 
 ---
 
+### 🍕 PizzaNoche
 
+**Restaurant ordering ecosystem**
 
-<table>
+A modern pizzeria platform exploring the complete journey from customer ordering to restaurant operations.
 
-<tr>
+The project is helping me practice more production-oriented development including application architecture, containerization, CI/CD, and deployment.
 
-
-
-<td width="50%" valign="top">
-
-
-
-## 🏗️ Fair_Share
-
-
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/BLADE-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-
-
-
-### `LARAVEL ECOSYSTEM`
-
-
-
-A server-rendered web application using Blade, representing my progression into Laravel-based full-stack development.
-
-
-
-**TECH**
-
-
-
-`Blade` · `Laravel`
-
-
-
-**BUILD**
-
-
-
-`MVC` · `Server Rendering` · `Web App`
-
-
+`Laravel` · `Blade` · `MySQL` · `Docker` · `GitHub Actions`
 
 <br/>
 
+---
 
+### 🏗️ Fair Share
+
+**Collaborative expense management**
+
+A Laravel application built around shared expenses and collaboration, representing my progression into more structured full-stack development.
+
+`Laravel` · `Blade` · `MySQL` · `MVC`
 
 <a href="https://github.com/Mehdi-133/Fair_Share">
-
-
-
-<img src="https://img.shields.io/badge/OPEN_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-
-
-
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-254D32?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-
-
-<details>
-
-<summary>⚡ Project Details</summary>
-
-
-
-<br/>
-
-
-
-**Category:** Full-Stack Web
-
-
-
-**Main focus:** Laravel / Blade
-
-
-
-**Architecture:** MVC
-
-
-
-**Status:** Active repository
-
-
-
-</details>
-
-
-
-</td>
-
-
-
-<td width="50%" valign="top">
-
-
-
-## 📋 TasksBoard
-
-
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/BLADE-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-
-
-
-### `PROJECT MANAGEMENT`
-
-
-
-A task-management application focused on organizing work through a structured web interface.
-
-
-
-**TECH**
-
-
-
-`Blade` · `Laravel`
-
-
-
-**BUILD**
-
-
-
-`Task Management` · `CRUD` · `UI`
-
-
-
-<br/>
-
-
-
-<a href="https://github.com/Mehdi-133/TasksBoard">
-
-
-
-<img src="https://img.shields.io/badge/OPEN_BOARD-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-
-
-
-</a>
-
-
-
-<details>
-
-<summary>⚡ Project Details</summary>
-
-
-
-<br/>
-
-
-
-**Category:** Project Management
-
-
-
-**Main focus:** Web application development
-
-
-
-**Architecture:** Server-rendered application
-
-
-
-**Status:** Active repository
-
-
-
-</details>
-
-
-
-</td>
-
-
-
-</tr>
-
-</table>
-
-
-
----
-
-
-
-<table>
-
-<tr>
-
-
-
-<td width="50%" valign="top">
-
-
-
-## 💼 Job Dating
-
-
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-
-
-
-### `RECRUITMENT PLATFORM`
-
-
-
-A recruitment-oriented web application focused on connecting candidates and opportunities.
-
-
-
-**TECH**
-
-
-
-`PHP`
-
-
-
-**BUILD**
-
-
-
-`Backend` · `Web App` · `Recruitment`
-
-
-
-<br/>
-
-
-
-<a href="https://github.com/Mehdi-133/job_dating">
-
-
-
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-
-
-
-</a>
-
-
-
-<details>
-
-<summary>⚡ Project Details</summary>
-
-
-
-<br/>
-
-
-
-**Category:** Recruitment
-
-
-
-**Main focus:** PHP web development
-
-
-
-**Architecture:** Web application
-
-
-
-**Status:** Active repository
-
-
-
-</details>
-
-
-
-</td>
-
-
-
-<td width="50%" valign="top">
-
-
-
-## 🧠 QuizAppStudent
-
-
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-
-
-
-### `QUIZ PLATFORM`
-
-
-
-A student-focused quiz application demonstrating backend development, application logic, and database-driven functionality.
-
-
-
-**TECH**
-
-
-
-`PHP`
-
-
-
-**BUILD**
-
-
-
-`Backend` · `Logic` · `Database`
-
-
-
-<br/>
-
-
-
-<a href="https://github.com/Mehdi-133/QuizAppStudent">
-
-
-
-<img src="https://img.shields.io/badge/START_QUIZ_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-
-
-
-</a>
-
-
-
-<details>
-
-<summary>⚡ Project Details</summary>
-
-
-
-<br/>
-
-
-
-**Category:** Education
-
-
-
-**Main focus:** PHP application development
-
-
-
-**Architecture:** Database-driven web application
-
-
-
-**Status:** Active repository
-
-
-
-</details>
-
-
-
-</td>
-
-
-
-</tr>
-
-</table>
-
-
-
-
+<br/><br/>
 
 <div align="center">
 
-
-
-<details>
-
-<summary><b>🔎 Explore all repositories</b></summary>
-
-
-
-<br/>
-
-
-
 <a href="https://github.com/Mehdi-133?tab=repositories">
-
-
-
-<img src="https://img.shields.io/badge/BROWSE_ALL_REPOSITORIES-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
-
-
-
+  <img src="https://img.shields.io/badge/🗺️_EXPLORE_ALL_REPOSITORIES-C58B43?style=for-the-badge&logoColor=white"/>
 </a>
-
-
-
-</details>
-
-
-
-<br/>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
-
-
 
 </div>
 
+---
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
-
-
-
-
-
-
-
-## `07` — CURRENTLY LEVELING UP
-
-
-
-### From:
-
-
-
-```text
-
-"I can build an application."
-
-```
-
-
-
-### To:
-
-
-
-```text
-
-"I can build, test, containerize, automate and deploy an application."
-
-```
-
-
-
-<table>
-
-<tr>
-
-<td align="center">🐳<br/><b>Docker</b></td>
-
-<td align="center">🔄<br/><b>CI/CD</b></td>
-
-<td align="center">🧪<br/><b>Testing</b></td>
-
-<td align="center">🔐<br/><b>API Auth</b></td>
-
-</tr>
-
-<tr>
-
-<td align="center">⚛️<br/><b>React</b></td>
-
-<td align="center">🗄️<br/><b>PostgreSQL</b></td>
-
-<td align="center">⚡<br/><b>Redis</b></td>
-
-<td align="center">🚀<br/><b>Deployment</b></td>
-
-</tr>
-
-</table>
-
-
-
-
-
-## `10` — CURRENT FOCUS
-
-
-
-```text
-
-┌─────────────────────────────────────────────────┐
-
-│             CURRENT DEVELOPMENT                  │
-
-├─────────────────────────────────────────────────┤
-
-│                                                 │
-
-│  ████████████████████  Full-Stack Apps          │
-
-│  ██████████████████    Laravel APIs             │
-
-│  ████████████████      React                    │
-
-│  █████████████████     Docker                   │
-
-│  █████████████████     CI/CD                    │
-
-│  ███████████████       Testing                  │
-
-│  ██████████████        Cloud / Deployment       │
-
-│  ████████████████      SaaS Dashboards          │
-
-│  ███████████████       API Integrations         │
-
-│  █████████████         Scalable Architecture    │
-
-│                                                 │
-
-└─────────────────────────────────────────────────┘
-
-```
-
-
-
-
-
-I'm working toward becoming a developer who can take a product from:
-
-
-
-**idea → architecture → implementation → testing → deployment**
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
-
-
-
-
-
-## `14` — CONNECT
-
-
+## `04` — 🔥 AROUND THE CAMPFIRE
 
 <div align="center">
 
+### GitHub Activity
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mehdi-133&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=C58B43&icon_color=254D32&text_color=FFFFFF" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:00C6FF&height=4&section=header" width="100%"/>
-
-
-
-# `LET'S BUILD.`
-
-
-
-### <code>Ideas → Code → Products</code>
-
-
-
-<p>
-
-I’m always interested in building things that are
-
-<strong>useful, scalable, and a little bit different.</strong>
-
-</p>
-
-
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-133&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=C58B43&text_color=FFFFFF" />
 
 <br/>
 
+<img src="https://streak-stats.demolab.com?user=Mehdi-133&hide_border=true&background=00000000&ring=C58B43&fire=C58B43&currStreakLabel=C58B43&sideLabels=FFFFFF&dates=888888" />
 
+</div>
+
+---
+
+## `05` — 🌄 THE NEXT TRAIL
+
+I'm currently moving from:
+
+```text
+"I can build an application."
+```
+
+toward:
+
+```text
+"I can design, build, test,
+containerize, automate and
+deploy an application."
+```
+
+### 🧭 Currently exploring deeper
 
 <table>
-
 <tr>
 
-
-
 <td align="center" width="25%">
 
+### ⚛️
 
+**Next.js**
 
-### 🟢
-
-
-
-**BUILD**
-
-
-
-Full-Stack
-
-SaaS
-
-APIs
-
-
+Modern full-stack
+applications
 
 </td>
 
-
-
 <td align="center" width="25%">
 
+### 🍃
 
+**MongoDB**
 
-### 🔵
-
-
-
-**EXPLORE**
-
-
-
-Automation
-
-AI
-
-Architecture
-
-
+Document-oriented
+databases
 
 </td>
 
-
-
 <td align="center" width="25%">
 
+### 🐳
 
+**Docker**
 
-### 🟣
-
-
-
-**SHIP**
-
-
-
-Docker
-
-CI/CD
-
-Testing
-
-
+Containers &
+environments
 
 </td>
 
-
-
 <td align="center" width="25%">
 
+### 🔄
 
+**CI/CD**
 
-### 🟡
-
-
-
-**IMPROVE**
-
-
-
-Performance
-
-UX
-
-Code Quality
-
-
+Automated build
+& deployment
 
 </td>
-
-
 
 </tr>
 
+<tr>
+
+<td align="center">
+
+### 🧪
+
+**Testing**
+
+Reliable
+applications
+
+</td>
+
+<td align="center">
+
+### 🔐
+
+**APIs**
+
+Authentication
+& integration
+
+</td>
+
+<td align="center">
+
+### 🏗️
+
+**Architecture**
+
+Better system
+design
+
+</td>
+
+<td align="center">
+
+### 🚀
+
+**Deployment**
+
+From local
+to production
+
+</td>
+
+</tr>
 </table>
-
-
 
 <br/>
 
+### The destination
 
+<div align="center">
+
+```text
+IDEA
+  │
+  ▼
+ARCHITECTURE
+  │
+  ▼
+BUILD
+  │
+  ▼
+TEST
+  │
+  ▼
+DEPLOY
+  │
+  ▼
+IMPROVE
+  │
+  └────────────── ↻
+```
+
+**Build products from idea to production — and understand every step of the trail.**
+
+</div>
+
+---
+
+## `06` — ⛺ SEE YOU ON THE TRAIL
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16251D,50:254D32,100:C58B43&height=4&section=header" width="100%"/>
+
+<br/>
+
+# `LET'S BUILD SOMETHING.`
+
+### `< ideas → code → products />`
+
+I'm interested in building things that are
+
+**useful · thoughtful · scalable · different**
+
+<br/>
 
 ### `// FIND ME ONLINE`
 
-
-
 <a href="https://github.com/Mehdi-133">
-
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-&nbsp;
 
 <a href="https://www.linkedin.com/in/mehdi-karbitou">
-
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-&nbsp;
 
 <a href="https://core-v2-portfolio.vercel.app/">
-
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/PORTFOLIO-254D32?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
-&nbsp;
 
 <a href="mailto:mehdikarbitou@gmail.com">
-
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/EMAIL-C58B43?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-
-
 <br/><br/>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=3&section=header" width="80%"/>
-
-
-
-
-
-### `STATUS`
-
-
-
-<img src="https://img.shields.io/badge/●%20AVAILABLE%20TO%20BUILD-00C853?style=for-the-badge&labelColor=0D1117" />
-
-
-
-<br/><br/>
-
-
 
 ```text
+             /\
+            /  \
+           /____\
+          /|    |\
+         /_|____|_\
+           |  |
 
-╭──────────────────────────────────────────────────────╮
+      DEVELOPER BASECAMP
 
-│                                                      │
-
-│   $ connect --with mehdi                            │
-
-│                                                      │
-
-│   ✓ GitHub                                           │
-
-│   ✓ LinkedIn                                         │
-
-│   ✓ Portfolio                                        │
-
-│   ✓ Email                                            │
-
-│                                                      │
-
-│   CONNECTION STATUS:  ████████████████  ONLINE       │
-
-│                                                      │
-
-╰──────────────────────────────────────────────────────╯
-
+   Build • Explore • Improve
 ```
-
-
 
 <br/>
 
-
-
-<img src="https://komarev.com/ghpvc/?username=Mehdi-133&style=for-the-badge&color=00C6FF&label=PROFILE+VISITORS" />
-
-
+<img src="https://komarev.com/ghpvc/?username=Mehdi-133&style=for-the-badge&color=254D32&label=TRAIL+VISITORS" />
 
 <br/><br/>
-
-
 
 ### `ONE LAST THING`
 
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Build+it.;Test+it.;Ship+it.;Improve+it.;Repeat." />
-
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=C58B43&center=true&vCenter=true&width=700&lines=Explore.;Learn.;Build.;Ship.;Improve.;Keep+moving." />
 
 <br/><br/>
 
+**🏕️ See you on the trail.**
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7C3AED,100:FF4ECD&height=100&section=footer"/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16251D,50:254D32,100:C58B43&height=100&section=footer"/>
 
 </div>
 
+<!-- =========================================================
+     DEVELOPER BASECAMP
 
+     Brand concept:
+     Developer + Camping + Exploration
 
-<!--
+     Visual language:
+     🏕️ Basecamp   → Identity
+     🧭 Trail      → Developer journey
+     🎒 Backpack   → Technologies
+     🗺️ Expedition → Projects
+     🔥 Campfire   → GitHub activity
+     🌄 Next Trail → Learning
+     ⛺ Camp       → Contact
 
-=========================================================
-
-CONNECT / FOOTER
-
-
-
-VISUAL CONCEPT:
-
-🟢 Build
-
-🔵 Explore
-
-🟣 Ship
-
-🟡 Improve
-
-
-
-The section intentionally uses multiple accent colors while
-
-keeping the rest of the profile dark and professional.
-
-
-
-Dynamic elements:
-
-- Typing SVG
-
-- Profile visitor counter
-
-- Capsule animated footer
-
-- Linked social badges
-
-
-
-GitHub-compatible:
-
-- No JavaScript
-
-- No custom CSS
-
-- No external scripts
-
-- Only Markdown/HTML/SVG/image services
-
-=========================================================
-
--->
+     Philosophy:
+     Explore → Learn → Build → Improve
+     ========================================================= -->
